@@ -26,11 +26,9 @@
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/AWS_EventBridge-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 ### 🗄️ Databases & Messaging
@@ -40,11 +38,6 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-### 📊 Monitoring & Logging
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
 
 ### 🧰 Developer Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
@@ -66,14 +59,6 @@
 - 🔐 Integrated secure authentication with **JWT**, **OAuth**, and **Spring Security**
 - 🧠 Mentored developers, improved team review speed by **20%**
 - 🛠️ Worked across the stack with **DevOps**, **Product**, **QA**, and **Cloud** teams for smooth deliveries
-
----
-
-## 🎓 Education
-
-**👨‍🎓 Master of Computer Application (MCA)**  
-*Swami Ramanand Teerth Marathwada University, Nanded*  
-📊 CGPA: 8.77 / 10
 
 ---
 
